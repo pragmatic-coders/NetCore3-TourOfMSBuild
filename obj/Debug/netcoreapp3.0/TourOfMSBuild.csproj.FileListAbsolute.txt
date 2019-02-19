@@ -1,0 +1,12 @@
+D:\Repos\TourOfMSBuild\bin\Debug\netcoreapp3.0\TourOfMSBuild.exe
+D:\Repos\TourOfMSBuild\bin\Debug\netcoreapp3.0\TourOfMSBuild.deps.json
+D:\Repos\TourOfMSBuild\bin\Debug\netcoreapp3.0\TourOfMSBuild.runtimeconfig.json
+D:\Repos\TourOfMSBuild\bin\Debug\netcoreapp3.0\TourOfMSBuild.runtimeconfig.dev.json
+D:\Repos\TourOfMSBuild\bin\Debug\netcoreapp3.0\TourOfMSBuild.dll
+D:\Repos\TourOfMSBuild\bin\Debug\netcoreapp3.0\TourOfMSBuild.pdb
+D:\Repos\TourOfMSBuild\obj\Debug\netcoreapp3.0\TourOfMSBuild.csprojAssemblyReference.cache
+D:\Repos\TourOfMSBuild\obj\Debug\netcoreapp3.0\TourOfMSBuild.csproj.CoreCompileInputs.cache
+D:\Repos\TourOfMSBuild\obj\Debug\netcoreapp3.0\TourOfMSBuild.AssemblyInfoInputs.cache
+D:\Repos\TourOfMSBuild\obj\Debug\netcoreapp3.0\TourOfMSBuild.AssemblyInfo.cs
+D:\Repos\TourOfMSBuild\obj\Debug\netcoreapp3.0\TourOfMSBuild.dll
+D:\Repos\TourOfMSBuild\obj\Debug\netcoreapp3.0\TourOfMSBuild.pdb
